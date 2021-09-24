@@ -1,5 +1,5 @@
 {
-    "_version": "4.0",
+    "_version": "4.1",
     "_name": "Metroz Official Specification",
 
     "phrases": [
@@ -176,6 +176,11 @@
         {
             "en": " the ",
             "mt": " covos ",
+            "fact": null
+        },
+        {
+            "en": " texts ",
+            "mt": " di cubi ",
             "fact": null
         },
         {
