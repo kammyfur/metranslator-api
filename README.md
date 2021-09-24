@@ -11,3 +11,9 @@ node index.js <mode> <target language> <message>
   * `debug`   to get debugging information and pretty-printed JSON
   * `release` to get beautiful data with details
   * `api`     to get machine-readable data, as a JSON object
+
+* `<target language>`:
+  * `en`      to translate from **Metroz**  to **English**
+  * `mt`      to translate from **English** to **Metroz**
+
+* `<message>`: The message you want to translate
