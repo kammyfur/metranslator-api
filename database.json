@@ -1,5 +1,5 @@
 {
-    "_version": "4.2",
+    "_version": "4.3",
     "_name": "Metroz Official Specification",
 
     "phrases": [
@@ -8,20 +8,20 @@
             "mt": " ac ",
             "fact": "'ac' is a generic greetings word"
         },
-        {
-            "en": " have ",
-            "mt": " jit ",
-            "fact": null
+      {
+            "en": " wrote ",
+            "mt": " jit doc ",
+            "fact": "'jit' is a root word for past tense things."
         },
         {
             "en": " playing ",
             "mt": " bi ada ",
-            "fact": null
+            "fact": "'bi' is a root word and it is -ing. not to be confused with 'di'"
         },
         {
             "en": " games ",
             "mt": " di cos ",
-            "fact": null
+            "fact": "'di' is a root word and it is to make words plural. not to be confused with 'bi'"
         },
         {
             "en": " play ",
@@ -85,52 +85,52 @@
         },
         {
             "en": " one ",
-            "mt": " cof una ",
+            "mt": " cof-una ",
             "fact": "The first digit of a number is preceeded with 'cof'"
         },
         {
             "en": " two ",
-            "mt": " cof dico ",
+            "mt": " cof-dico ",
             "fact": "The first digit of a number is preceeded with 'cof'"
         },
         {
             "en": " three ",
-            "mt": " cof tras ",
+            "mt": " cof-tras ",
             "fact": "The first digit of a number is preceeded with 'cof'"
         },
         {
             "en": " four ",
-            "mt": " cof fone ",
+            "mt": " cof-fone ",
             "fact": "The first digit of a number is preceeded with 'cof'"
         },
         {
             "en": " five ",
-            "mt": " cof piv ",
+            "mt": " cof-piv ",
             "fact": "The first digit of a number is preceeded with 'cof'"
         },
         {
             "en": " six ",
-            "mt": " cof nix ",
+            "mt": " cof-nix ",
             "fact": "The first digit of a number is preceeded with 'cof'"
         },
         {
             "en": " seven ",
-            "mt": " cof yev ",
+            "mt": " cof-yev ",
             "fact": "The first digit of a number is preceeded with 'cof'"
         },
         {
             "en": " eight ",
-            "mt": " cof tei ",
+            "mt": " cof-tei ",
             "fact": "The first digit of a number is preceeded with 'cof'"
         },
         {
             "en": " nine ",
-            "mt": " cof pin ",
+            "mt": " cof-pin ",
             "fact": "The first digit of a number is preceeded with 'cof'"
         },
         {
-            "en": " zor ",
-            "mt": " cof zero ",
+            "en": " zero ",
+            "mt": " cof-zor ",
             "fact": "The first digit of a number is preceeded with 'cof'"
         },
         {
@@ -156,7 +156,7 @@
         {
             "en": " having ",
             "mt": " bi cip ",
-            "fact": null
+            "fact": "'bi' is a root word and it is -ing. not to be confused with 'di'"
         },
         {
             "en": " have ",
@@ -186,7 +186,7 @@
         {
             "en": " texts ",
             "mt": " di cubi ",
-            "fact": null
+            "fact": "'di' is a root word and it is to make words plural. not to be confused with 'bi'"
         },
         {
             "en": " text ",
@@ -339,18 +339,8 @@
             "fact": null
         },
         {
-            "en": " schools ",
-            "mt": " di saip ",
-            "fact": null
-        },
-        {
             "en": " school ",
             "mt": " saip ",
-            "fact": null
-        },
-        {
-            "en": " words ",
-            "mt": " di sobas ",
             "fact": null
         },
         {
@@ -364,11 +354,6 @@
             "fact": null
         },
         {
-            "en": " videos ",
-            "mt": " di sou ",
-            "fact": null
-        },
-        {
             "en": " maybe ",
             "mt": " tert ",
             "fact": null
@@ -376,11 +361,6 @@
         {
             "en": " title ",
             "mt": " tif ",
-            "fact": null
-        },
-        {
-            "en": " books ",
-            "mt": " di tins ",
             "fact": null
         },
         {
@@ -536,7 +516,7 @@
         {
             "en": " languages ",
             "mt": " di propova ",
-            "fact": null
+            "fact": "'di' is a root word and it is to make words plural. not to be confused with 'bi'"
         },
         {
             "en": " they ",
@@ -544,29 +524,14 @@
             "fact": "'doz' refers to a single person, while 'tiyuva' refer to multiple people"
         },
         {
-            "en": " them ",
-            "mt": " tovopar ",
-            "fact": "'tovopar' refers to a single person, while 'yekuva' refer to multiple people"
-        },
-        {
             "en": " their ",
             "mt": " tovopar ",
             "fact": "'tovopar' refers to a single person, while 'yekuva' refer to multiple people"
         },
         {
-            "en": " they ",
-            "mt": " tiuva ",
-            "fact": "'tiyuva' refers to multiple people, while 'doz' refer to a single person"
-        },
-        {
             "en": " them ",
-            "mt": " yekuva ",
-            "fact": "'yekuva' refers to multiple people, while 'tovopar' refer to a single person"
-        },
-        {
-            "en": " their ",
-            "mt": " yekuva ",
-            "fact": "'yekuva' refers to multiple people, while 'tovopar' refer to a single person"
+            "mt": " tovopar ",
+            "fact": "'tovopar' refers to a single person, while 'yekuva' refer to multiple people"
         },
         {
             "en": " it ",
@@ -601,7 +566,7 @@
         {
             "en": " doing ",
             "mt": " bi api ",
-            "fact": null
+            "fact": "'bi' is a root word and it is -ing. not to be confused with 'di'"
         },
         {
             "en": " do ",
@@ -621,12 +586,12 @@
         {
             "en": " doing ",
             "mt": " bi api ",
-            "fact": null
+            "fact": "'bi' is a root word and it is -ing. not to be confused with 'di'"
         },
         {
             "en": " seeing ",
             "mt": " bi cofa ",
-            "fact": null
+            "fact": "'bi' is a root word and it is -ing. not to be confused with 'di'"
         },
         {
             "en": " see ",
@@ -636,7 +601,7 @@
         {
             "en": " adding ",
             "mt": " bi devis ",
-            "fact": null
+            "fact": "'bi' is a root word and it is -ing. not to be confused with 'di'"
         },
         {
             "en": " add ",
@@ -646,7 +611,7 @@
         {
             "en": " writing ",
             "mt": " bi doc ",
-            "fact": null
+            "fact": "'bi' is a root word and it is -ing. not to be confused with 'di'"
         },
         {
             "en": " write ",
@@ -656,7 +621,7 @@
         {
             "en": " grabbing ",
             "mt": " bi fou ",
-            "fact": null
+            "fact": "'bi' is a root word and it is -ing. not to be confused with 'di'"
         },
         {
             "en": " grab ",
@@ -666,7 +631,7 @@
         {
             "en": " substracting ",
             "mt": " bi nevis ",
-            "fact": null
+            "fact": "'bi' is a root word and it is -ing. not to be confused with 'di'"
         },
         {
             "en": " substract ",
@@ -676,7 +641,7 @@
         {
             "en": " saying ",
             "mt": " bi quo ",
-            "fact": null
+            "fact": "'bi' is a root word and it is -ing. not to be confused with 'di'"
         },
         {
             "en": " say ",
@@ -686,7 +651,7 @@
         {
             "en": " holding on ",
             "mt": " bi tiyo ",
-            "fact": null
+            "fact": "'bi' is a root word and it is -ing. not to be confused with 'di'"
         },
         {
             "en": " hold on ",
@@ -696,7 +661,7 @@
         {
             "en": " waiting ",
             "mt": " bi tiyo ",
-            "fact": null
+            "fact": "'bi' is a root word and it is -ing. not to be confused with 'di'"
         },
         {
             "en": " wait ",
@@ -706,7 +671,7 @@
         {
             "en": " getting ",
             "mt": " bi tou ",
-            "fact": null
+            "fact": "'bi' is a root word and it is -ing. not to be confused with 'di'"
         },
         {
             "en": " get ",
@@ -716,7 +681,7 @@
         {
             "en": " speaking ",
             "mt": " bi figev ",
-            "fact": null
+            "fact": "'bi' is a root word and it is -ing. not to be confused with 'di'"
         },
         {
             "en": " speak ",
@@ -726,7 +691,7 @@
         {
             "en": " drinking ",
             "mt": " bi beltar ",
-            "fact": null
+            "fact": "'bi' is a root word and it is -ing. not to be confused with 'di'"
         },
         {
             "en": " drink ",
@@ -736,7 +701,7 @@
         {
             "en": " forgetting ",
             "mt": " bi porvit ",
-            "fact": null
+            "fact": "'bi' is a root word and it is -ing. not to be confused with 'di'"
         },
         {
             "en": " forget ",
@@ -746,7 +711,7 @@
         {
             "en": " remembering ",
             "mt": " bi seshov ",
-            "fact": null
+            "fact": "'bi' is a root word and it is -ing. not to be confused with 'di'"
         },
         {
             "en": " remember ",
@@ -771,7 +736,7 @@
         {
             "en": " foods ",
             "mt": " di ot ",
-            "fact": null
+            "fact": "'di' is a root word and it is to make words plural. not to be confused with 'bi'"
         },
         {
             "en": " soda ",
@@ -781,7 +746,7 @@
         {
             "en": " sodas ",
             "mt": " di stimu ",
-            "fact": null
+            "fact": "'di' is a root word and it is to make words plural. not to be confused with 'bi'"
         },
         {
             "en": " junk ",
@@ -791,7 +756,7 @@
         {
             "en": " junks ",
             "mt": " di suf ",
-            "fact": null
+            "fact": "'di' is a root word and it is to make words plural. not to be confused with 'bi'"
         },
         {
             "en": " candy ",
@@ -801,7 +766,7 @@
         {
             "en": " candies ",
             "mt": " di sul ",
-            "fact": null
+            "fact": "'di' is a root word and it is to make words plural. not to be confused with 'bi'"
         },
         {
             "en": " fruit ",
@@ -811,7 +776,7 @@
         {
             "en": " fruits ",
             "mt": " di [{[sun]}] ",
-            "fact": null
+            "fact": "'di' is a root word and it is to make words plural. not to be confused with 'bi'"
         },
         {
             "en": " television ",
@@ -821,7 +786,7 @@
         {
             "en": " televisions ",
             "mt": " di sut ",
-            "fact": null
+            "fact": "'di' is a root word and it is to make words plural. not to be confused with 'bi'"
         },
         {
             "en": " vegetable ",
@@ -831,7 +796,7 @@
         {
             "en": " vegetables ",
             "mt": " di sur ",
-            "fact": null
+            "fact": "'di' is a root word and it is to make words plural. not to be confused with 'bi'"
         },
         {
             "en": " bottle ",
@@ -841,12 +806,7 @@
         {
             "en": " bottles ",
             "mt": " di trivu ",
-            "fact": null
-        },
-        {
-            "en": " i ",
-            "mt": " dou ",
-            "fact": null
+            "fact": "'di' is a root word and it is to make words plural. not to be confused with 'bi'"
         },
         {
             "en": " me ",
@@ -861,6 +821,11 @@
         {
             "en": " mine ",
             "mt": " luv ",
+            "fact": null
+        },
+        {
+            "en": " i ",
+            "mt": " dou ",
             "fact": null
         },
         {
@@ -902,7 +867,14 @@
             "en": " of ",
             "mt": " tigev ",
             "fact": null
+        },
+      {
+            "en": " so ",
+            "mt": " nosiv ",
+            "fact": "to use the filler word 'so', use nos."
         }
+      
     ]
 }
+
 
