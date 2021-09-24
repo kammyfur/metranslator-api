@@ -76,4 +76,17 @@ if (toMetroz) {
 
 console.log("")
 output.output = query.trim().replaceAll(" !", "!").replaceAll(" ?", "?").replaceAll(" ,", ",").replaceAll(" .", ".").replaceAll("[{[", "").replaceAll("]}]", "");
-if (debug) console.dir(output); else console.log(JSON.stringify(output))
+if (debug){
+  console.dir(output);
+}else{ 
+  console.log("*")
+  console.log("| "+JSON.stringify(db._name).replaceAll('"',''))
+  console.log("| Version: " + JSON.stringify(db._version).replaceAll('"',''))
+  console.log("| Made by Jamez and Minteck!")
+  console.log("| check minteck out here: https://minteck.ro.lt/git/minteck")
+  console.log("*")
+  console.log("")
+  console.log("Fun Fact:  " + JSON.stringify(output['facts']))
+  console.log("")
+  console.log("RESULT:  " + JSON.stringify(output['output']).replaceAll('"',''))
+  }
