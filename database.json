@@ -1,0 +1,858 @@
+{
+    "_version": "4.0",
+    "_name": "Metroz Official Specification",
+
+    "phrases": [
+        {
+            "en": " hello ",
+            "mt": " ac ",
+            "fact": "'ac' is a generic greetings word"
+        },
+        {
+            "en": " playing ",
+            "mt": " bi ada ",
+            "fact": null
+        },
+        {
+            "en": " games ",
+            "mt": " di cos ",
+            "fact": null
+        },
+        {
+            "en": " play ",
+            "mt": " ada ",
+            "fact": null
+        },
+        {
+            "en": " that ",
+            "mt": " fod ",
+            "fact": null
+        },
+        {
+            "en": " good ",
+            "mt": " do ",
+            "fact": null
+        },
+        {
+            "en": " game ",
+            "mt": " cos ",
+            "fact": null
+        },
+        {
+            "en": " was ",
+            "mt": " dopa ",
+            "fact": null
+        },
+        {
+            "en": " cool ",
+            "mt": " disiv ",
+            "fact": null
+        },
+        {
+            "en": " bad ",
+            "mt": " polv ",
+            "fact": null
+        },
+        {
+            "en": " okay ",
+            "mt": " folov ",
+            "fact": null
+        },
+        {
+            "en": " fun ",
+            "mt": " fiviv ",
+            "fact": null
+        },
+        {
+            "en": " weird ",
+            "mt": " topobi ",
+            "fact": null
+        },
+        {
+            "en": " pretty ",
+            "mt": " kirutu ",
+            "fact": null
+        },
+        {
+            "en": " stupid ",
+            "mt": " puverv ",
+            "fact": null
+        },
+        {
+            "en": " one ",
+            "mt": " cof una ",
+            "fact": "The first digit of a number is preceeded with 'cof'"
+        },
+        {
+            "en": " two ",
+            "mt": " cof dico ",
+            "fact": "The first digit of a number is preceeded with 'cof'"
+        },
+        {
+            "en": " three ",
+            "mt": " cof tras ",
+            "fact": "The first digit of a number is preceeded with 'cof'"
+        },
+        {
+            "en": " four ",
+            "mt": " cof fone ",
+            "fact": "The first digit of a number is preceeded with 'cof'"
+        },
+        {
+            "en": " five ",
+            "mt": " cof piv ",
+            "fact": "The first digit of a number is preceeded with 'cof'"
+        },
+        {
+            "en": " six ",
+            "mt": " cof nix ",
+            "fact": "The first digit of a number is preceeded with 'cof'"
+        },
+        {
+            "en": " seven ",
+            "mt": " cof yev ",
+            "fact": "The first digit of a number is preceeded with 'cof'"
+        },
+        {
+            "en": " eight ",
+            "mt": " cof tei ",
+            "fact": "The first digit of a number is preceeded with 'cof'"
+        },
+        {
+            "en": " nine ",
+            "mt": " cof pin ",
+            "fact": "The first digit of a number is preceeded with 'cof'"
+        },
+        {
+            "en": " zor ",
+            "mt": " cof zero ",
+            "fact": "The first digit of a number is preceeded with 'cof'"
+        },
+        {
+            "en": " like ",
+            "mt": " botos ",
+            "fact": "'botos' is affective. Use 'bozis' for romantic."
+        },
+        {
+            "en": " love ",
+            "mt": " bozis ",
+            "fact": "'bozis' is romantic. Use 'botos' for affective."
+        },
+        {
+            "en": " enjoy ",
+            "mt": " botos ",
+            "fact": "'botos' is affective. Use 'bozis' for romantic."
+        },
+        {
+            "en": " between ",
+            "mt": " cap ",
+            "fact": null
+        },
+        {
+            "en": " having ",
+            "mt": " bi cip ",
+            "fact": null
+        },
+        {
+            "en": " have ",
+            "mt": " cip ",
+            "fact": null
+        },
+        {
+            "en": " number ",
+            "mt": " cof ",
+            "fact": null
+        },
+        {
+            "en": " in ",
+            "mt": " cop ",
+            "fact": null
+        },
+        {
+            "en": " there ",
+            "mt": " covan ",
+            "fact": null
+        },
+        {
+            "en": " the ",
+            "mt": " covos ",
+            "fact": null
+        },
+        {
+            "en": " text ",
+            "mt": " cubi ",
+            "fact": null
+        },
+        {
+            "en": " out ",
+            "mt": " cup ",
+            "fact": null
+        },
+        {
+            "en": " front ",
+            "mt": " dof ",
+            "fact": null
+        },
+        {
+            "en": " for ",
+            "mt": " fane ",
+            "fact": null
+        },
+        {
+            "en": " am ",
+            "mt": " faz ",
+            "fact": null
+        },
+        {
+            "en": " be ",
+            "mt": " faz ",
+            "fact": null
+        },
+        {
+            "en": " yes ",
+            "mt": " fert ",
+            "fact": null
+        },
+        {
+            "en": " human ",
+            "mt": " filev ",
+            "fact": null
+        },
+        {
+            "en": " this ",
+            "mt": " fod ",
+            "fact": null
+        },
+        {
+            "en": " that ",
+            "mt": " fod ",
+            "fact": null
+        },
+        {
+            "en": " okay ",
+            "mt": " fondov ",
+            "fact": null
+        },
+        {
+            "en": " agree ",
+            "mt": " forte ",
+            "fact": null
+        },
+        {
+            "en": " old ",
+            "mt": " goy ",
+            "fact": null
+        },
+        {
+            "en": " day ",
+            "mt": " gret ",
+            "fact": null
+        },
+        {
+            "en": " back ",
+            "mt": " hof ",
+            "fact": null
+        },
+        {
+            "en": " objective ",
+            "mt": " hofel ",
+            "fact": null
+        },
+        {
+            "en": " goal ",
+            "mt": " hofel ",
+            "fact": null
+        },
+        {
+            "en": " object ",
+            "mt": " hoval ",
+            "fact": null
+        },
+        {
+            "en": " what ",
+            "mt": " jovis ",
+            "fact": null
+        },
+        {
+            "en": " again ",
+            "mt": " kiz ",
+            "fact": null
+        },
+        {
+            "en": " repeat ",
+            "mt": " losi ",
+            "fact": null
+        },
+        {
+            "en": " document ",
+            "mt": " luvab ",
+            "fact": null
+        },
+        {
+            "en": " paper ",
+            "mt": " luvab ",
+            "fact": null
+        },
+        {
+            "en": " is ",
+            "mt": " mus ",
+            "fact": null
+        },
+        {
+            "en": " like ",
+            "mt": " nos ",
+            "fact": null
+        },
+        {
+            "en": " um ",
+            "mt": " nos ",
+            "fact": null
+        },
+        {
+            "en": " so ",
+            "mt": " nos ",
+            "fact": null
+        },
+        {
+            "en": " hmm ",
+            "mt": " nos ",
+            "fact": null
+        },
+        {
+            "en": " huh ",
+            "mt": " nos ",
+            "fact": null
+        },
+        {
+            "en": " are ",
+            "mt": " paz ",
+            "fact": null
+        },
+        {
+            "en": " school ",
+            "mt": " saip ",
+            "fact": null
+        },
+        {
+            "en": " word ",
+            "mt": " sobas ",
+            "fact": null
+        },
+        {
+            "en": " video ",
+            "mt": " sou ",
+            "fact": null
+        },
+        {
+            "en": " maybe ",
+            "mt": " tert ",
+            "fact": null
+        },
+        {
+            "en": " title ",
+            "mt": " tif ",
+            "fact": null
+        },
+        {
+            "en": " book ",
+            "mt": " tins ",
+            "fact": null
+        },
+        {
+            "en": " why ",
+            "mt": " tips ",
+            "fact": null
+        },
+        {
+            "en": " humanity ",
+            "mt": " tiven ",
+            "fact": null
+        },
+        {
+            "en": " who ",
+            "mt": " tivos ",
+            "fact": null
+        },
+        {
+            "en": " file ",
+            "mt": " tovab ",
+            "fact": null
+        },
+        {
+            "en": " only ",
+            "mt": " tovi ",
+            "fact": null
+        },
+        {
+            "en": " night ",
+            "mt": " trez ",
+            "fact": null
+        },
+        {
+            "en": " your ",
+            "mt": " tuv ",
+            "fact": null
+        },
+        {
+            "en": " no ",
+            "mt": " vert ",
+            "fact": null
+        },
+        {
+            "en": " not ",
+            "mt": " vert ",
+            "fact": null
+        },
+        {
+            "en": " new ",
+            "mt": " vold ",
+            "fact": null
+        },
+        {
+            "en": " audio ",
+            "mt": " vos ",
+            "fact": null
+        },
+        {
+            "en": " know ",
+            "mt": " yief ",
+            "fact": null
+        },
+        {
+            "en": " information ",
+            "mt": " yogav ",
+            "fact": null
+        },
+        {
+            "en": " info ",
+            "mt": " yogav ",
+            "fact": null
+        },
+        {
+            "en": " information ",
+            "mt": " yogav ",
+            "fact": null
+        },
+        {
+            "en": " miss ",
+            "mt": " yuls ",
+            "fact": null
+        },
+        {
+            "en": " hope ",
+            "mt": " yurit ",
+            "fact": null
+        },
+        {
+            "en": " please ",
+            "mt": " ziviz ",
+            "fact": null
+        },
+        {
+            "en": " a ",
+            "mt": " hujiv ",
+            "fact": null
+        },
+        {
+            "en": " an ",
+            "mt": " hujiv ",
+            "fact": null
+        },
+        {
+            "en": " while ",
+            "mt": " tulist ",
+            "fact": null
+        },
+        {
+            "en": " because ",
+            "mt": " hupoy ",
+            "fact": null
+        },
+        {
+            "en": " current ",
+            "mt": " puyiv ",
+            "fact": null
+        },
+        {
+            "en": " currently ",
+            "mt": " puyiv ",
+            "fact": null
+        },
+        {
+            "en": " as ",
+            "mt": " kipet ",
+            "fact": null
+        },
+        {
+            "en": " more ",
+            "mt": " morap ",
+            "fact": null
+        },
+        {
+            "en": " rules ",
+            "mt": " hitiva ",
+            "fact": null
+        },
+        {
+            "en": " rule ",
+            "mt": " hitiva ",
+            "fact": null
+        },
+        {
+            "en": " language ",
+            "mt": " propova ",
+            "fact": null
+        },
+        {
+            "en": " languages ",
+            "mt": " di propova ",
+            "fact": null
+        },
+        {
+            "en": " they ",
+            "mt": " doz ",
+            "fact": "'doz' refers to a single person, while 'tiyuva' refer to multiple people"
+        },
+        {
+            "en": " their ",
+            "mt": " tovopar ",
+            "fact": "'tovopar' refers to a single person, while 'yekuva' refer to multiple people"
+        },
+        {
+            "en": " them ",
+            "mt": " tovopar ",
+            "fact": "'tovopar' refers to a single person, while 'yekuva' refer to multiple people"
+        },
+        {
+            "en": " it ",
+            "mt": " doz ",
+            "fact": null
+        },
+        {
+            "en": " he ",
+            "mt": " doz ",
+            "fact": null
+        },
+        {
+            "en": " him ",
+            "mt": " tovopar ",
+            "fact": null
+        },
+        {
+            "en": " his ",
+            "mt": " tovopar ",
+            "fact": null
+        },
+        {
+            "en": " she ",
+            "mt": " doz ",
+            "fact": null
+        },
+        {
+            "en": " her ",
+            "mt": " tovopar ",
+            "fact": null
+        },
+        {
+            "en": " doing ",
+            "mt": " bi api ",
+            "fact": null
+        },
+        {
+            "en": " do ",
+            "mt": " api ",
+            "fact": null
+        },
+        {
+            "en": " going to ",
+            "mt": " bo ",
+            "fact": null
+        },
+        {
+            "en": " going ",
+            "mt": " bui ",
+            "fact": null
+        },
+        {
+            "en": " doing ",
+            "mt": " bi api ",
+            "fact": null
+        },
+        {
+            "en": " seeing ",
+            "mt": " bi cofa ",
+            "fact": null
+        },
+        {
+            "en": " see ",
+            "mt": " cofa ",
+            "fact": null
+        },
+        {
+            "en": " adding ",
+            "mt": " bi devis ",
+            "fact": null
+        },
+        {
+            "en": " add ",
+            "mt": " devis ",
+            "fact": null
+        },
+        {
+            "en": " writing ",
+            "mt": " bi doc ",
+            "fact": null
+        },
+        {
+            "en": " write ",
+            "mt": " doc ",
+            "fact": null
+        },
+        {
+            "en": " grabbing ",
+            "mt": " bi fou ",
+            "fact": null
+        },
+        {
+            "en": " grab ",
+            "mt": " fou ",
+            "fact": null
+        },
+        {
+            "en": " substracting ",
+            "mt": " bi nevis ",
+            "fact": null
+        },
+        {
+            "en": " substract ",
+            "mt": " nevis ",
+            "fact": null
+        },
+        {
+            "en": " saying ",
+            "mt": " bi quo ",
+            "fact": null
+        },
+        {
+            "en": " say ",
+            "mt": " quo ",
+            "fact": null
+        },
+        {
+            "en": " holding on ",
+            "mt": " bi tiyo ",
+            "fact": null
+        },
+        {
+            "en": " hold on ",
+            "mt": " tiyo ",
+            "fact": null
+        },
+        {
+            "en": " waiting ",
+            "mt": " bi tiyo ",
+            "fact": null
+        },
+        {
+            "en": " wait ",
+            "mt": " tiyo ",
+            "fact": null
+        },
+        {
+            "en": " getting ",
+            "mt": " bi tou ",
+            "fact": null
+        },
+        {
+            "en": " get ",
+            "mt": " tou ",
+            "fact": null
+        },
+        {
+            "en": " speaking ",
+            "mt": " bi figev ",
+            "fact": null
+        },
+        {
+            "en": " speak ",
+            "mt": " figev ",
+            "fact": null
+        },
+        {
+            "en": " drinking ",
+            "mt": " bi beltar ",
+            "fact": null
+        },
+        {
+            "en": " drink ",
+            "mt": " beltar ",
+            "fact": "'beltar' is a verb. Use 'botar' for the object."
+        },
+        {
+            "en": " forgetting ",
+            "mt": " bi porvit ",
+            "fact": null
+        },
+        {
+            "en": " forget ",
+            "mt": " porvit ",
+            "fact": null
+        },
+        {
+            "en": " remembering ",
+            "mt": " bi seshov ",
+            "fact": null
+        },
+        {
+            "en": " remember ",
+            "mt": " seshov ",
+            "fact": null
+        },
+        {
+            "en": " drink ",
+            "mt": " botar ",
+            "fact": "'botar' is an object. Use 'beltar' for the verb."
+        },
+        {
+            "en": " drinks ",
+            "mt": " di botar ",
+            "fact": "'botar' is an object. Use 'beltar' for the verb."
+        },
+        {
+            "en": " food ",
+            "mt": " ot ",
+            "fact": null
+        },
+        {
+            "en": " foods ",
+            "mt": " di ot ",
+            "fact": null
+        },
+        {
+            "en": " soda ",
+            "mt": " stimu ",
+            "fact": null
+        },
+        {
+            "en": " sodas ",
+            "mt": " di stimu ",
+            "fact": null
+        },
+        {
+            "en": " junk ",
+            "mt": " suf ",
+            "fact": null
+        },
+        {
+            "en": " junks ",
+            "mt": " di suf ",
+            "fact": null
+        },
+        {
+            "en": " candy ",
+            "mt": " sul ",
+            "fact": null
+        },
+        {
+            "en": " candies ",
+            "mt": " di sul ",
+            "fact": null
+        },
+        {
+            "en": " fruit ",
+            "mt": " [{[sun]}] ",
+            "fact": null
+        },
+        {
+            "en": " fruits ",
+            "mt": " di [{[sun]}] ",
+            "fact": null
+        },
+        {
+            "en": " television ",
+            "mt": " sut ",
+            "fact": null
+        },
+        {
+            "en": " televisions ",
+            "mt": " di sut ",
+            "fact": null
+        },
+        {
+            "en": " vegetable ",
+            "mt": " sur ",
+            "fact": null
+        },
+        {
+            "en": " vegetables ",
+            "mt": " di sur ",
+            "fact": null
+        },
+        {
+            "en": " bottle ",
+            "mt": " trivu ",
+            "fact": null
+        },
+        {
+            "en": " bottles ",
+            "mt": " di trivu ",
+            "fact": null
+        },
+        {
+            "en": " me ",
+            "mt": " dou ",
+            "fact": null
+        },
+        {
+            "en": " my ",
+            "mt": " lug ",
+            "fact": null
+        },
+        {
+            "en": " mine ",
+            "mt": " luv ",
+            "fact": null
+        },
+        {
+            "en": " i ",
+            "mt": " dou ",
+            "fact": null
+        },
+        {
+            "en": " metroz ",
+            "mt": " metrez ",
+            "fact": null
+        },
+        {
+            "en": " you ",
+            "mt": " luv ",
+            "fact": null
+        },
+        {
+            "en": " your ",
+            "mt": " luv ",
+            "fact": null
+        },
+        {
+            "en": " yours ",
+            "mt": " luv ",
+            "fact": null
+        },
+        {
+            "en": " but ",
+            "mt": " avol ",
+            "fact": null
+        },
+        {
+            "en": " most ",
+            "mt": " avrak ",
+            "fact": null
+        },
+        {
+            "en": " of ",
+            "mt": " tigev ",
+            "fact": null
+        }
+    ]
+}
+
