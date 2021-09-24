@@ -1,5 +1,5 @@
 {
-    "_version": "4.1",
+    "_version": "4.2",
     "_name": "Metroz Official Specification",
 
     "phrases": [
@@ -7,6 +7,11 @@
             "en": " hello ",
             "mt": " ac ",
             "fact": "'ac' is a generic greetings word"
+        },
+        {
+            "en": " have ",
+            "mt": " jit ",
+            "fact": null
         },
         {
             "en": " playing ",
@@ -334,8 +339,18 @@
             "fact": null
         },
         {
+            "en": " schools ",
+            "mt": " di saip ",
+            "fact": null
+        },
+        {
             "en": " school ",
             "mt": " saip ",
+            "fact": null
+        },
+        {
+            "en": " words ",
+            "mt": " di sobas ",
             "fact": null
         },
         {
@@ -349,6 +364,11 @@
             "fact": null
         },
         {
+            "en": " videos ",
+            "mt": " di sou ",
+            "fact": null
+        },
+        {
             "en": " maybe ",
             "mt": " tert ",
             "fact": null
@@ -356,6 +376,11 @@
         {
             "en": " title ",
             "mt": " tif ",
+            "fact": null
+        },
+        {
+            "en": " books ",
+            "mt": " di tins ",
             "fact": null
         },
         {
@@ -519,14 +544,29 @@
             "fact": "'doz' refers to a single person, while 'tiyuva' refer to multiple people"
         },
         {
+            "en": " them ",
+            "mt": " tovopar ",
+            "fact": "'tovopar' refers to a single person, while 'yekuva' refer to multiple people"
+        },
+        {
             "en": " their ",
             "mt": " tovopar ",
             "fact": "'tovopar' refers to a single person, while 'yekuva' refer to multiple people"
         },
         {
+            "en": " they ",
+            "mt": " tiuva ",
+            "fact": "'tiyuva' refers to multiple people, while 'doz' refer to a single person"
+        },
+        {
             "en": " them ",
-            "mt": " tovopar ",
-            "fact": "'tovopar' refers to a single person, while 'yekuva' refer to multiple people"
+            "mt": " yekuva ",
+            "fact": "'yekuva' refers to multiple people, while 'tovopar' refer to a single person"
+        },
+        {
+            "en": " their ",
+            "mt": " yekuva ",
+            "fact": "'yekuva' refers to multiple people, while 'tovopar' refer to a single person"
         },
         {
             "en": " it ",
@@ -804,6 +844,11 @@
             "fact": null
         },
         {
+            "en": " i ",
+            "mt": " dou ",
+            "fact": null
+        },
+        {
             "en": " me ",
             "mt": " dou ",
             "fact": null
@@ -816,11 +861,6 @@
         {
             "en": " mine ",
             "mt": " luv ",
-            "fact": null
-        },
-        {
-            "en": " i ",
-            "mt": " dou ",
             "fact": null
         },
         {
