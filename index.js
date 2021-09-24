@@ -1,3 +1,5 @@
+const startTime = new Date();
+
 class MetranslatorInitializationError extends Error {
     constructor(message) {
         super(message);
@@ -7,9 +9,15 @@ class MetranslatorInitializationError extends Error {
 switch (process.argv[2]) {
     case "debug":
         debug = true
+        api = false
         break;
     case "release":
         debug = false
+        api = false
+        break;
+    case "api":
+        debug = false
+        api = true
         break;
     default:
         throw new MetranslatorInitializationError("Debugging level not defined or invalid")
@@ -39,6 +47,7 @@ let output = {
         length: db.phrases.length
     },
     facts: [],
+    duration: null,
     output: null
 }
 
@@ -74,19 +83,29 @@ if (toMetroz) {
     }
 }
 
-console.log("")
 output.output = query.trim().replaceAll(" !", "!").replaceAll(" ?", "?").replaceAll(" ,", ",").replaceAll(" .", ".").replaceAll("[{[", "").replaceAll("]}]", "");
-if (debug){
-  console.dir(output);
-}else{ 
-  console.log("*")
-  console.log("| "+JSON.stringify(db._name).replaceAll('"',''))
-  console.log("| Version: " + JSON.stringify(db._version).replaceAll('"',''))
-  console.log("| Made by Jamez and Minteck!")
-  console.log("| check minteck out here: https://minteck.ro.lt/git/minteck")
-  console.log("*")
-  console.log("")
-  console.log("Fun Fact:  " + JSON.stringify(output['facts']))
-  console.log("")
-  console.log("RESULT:  " + JSON.stringify(output['output']).replaceAll('"',''))
-  }
+
+const endTime = new Date();
+const diffTime = (endTime - startTime).toFixed(2);
+
+output.duration = endTime - startTime;
+
+if (debug) {
+    console.log("")
+    console.dir(output);
+} else if (api) {
+    console.log(JSON.stringify(output).trim());
+} else {
+    console.log("")
+    console.log("*")
+    console.log("| "+JSON.stringify(db._name).replaceAll('"',''))
+    console.log("| Database version: " + JSON.stringify(db._version).replaceAll('"',''))
+    console.log("| Made by Jamez and Minteck!")
+    console.log("| Source: https://minteck.ro.lt/git/minteck/metranslator-api")
+    console.log("*")
+    console.log("")
+    console.log("Done in " + diffTime + " ms");
+    console.log("Fun Facts:\n - " + output['facts'].join("\n - "))
+    console.log("")
+    console.log("Output: " + output['output'])
+}
