@@ -105,6 +105,8 @@ if (debug) {
     console.log("*")
     console.log("")
     console.log("Done in " + diffTime + " ms");
+    console.log("Database contains " + db.phrases.length + " definitions (" + ((JSON.stringify(db.phrases).length)/1024).toFixed(2) + " KiB)");
+    console.log("");
     console.log("Fun Facts:\n - " + output['facts'].join("\n - "))
     console.log("")
     console.log("Output: " + output['output'])
