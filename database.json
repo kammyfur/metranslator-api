@@ -1,5 +1,5 @@
 {
-    "_version": "4.3",
+    "_version": "4.5",
     "_name": "Metroz Official Specification",
 
     "phrases": [
@@ -31,11 +31,6 @@
         {
             "en": " that ",
             "mt": " fod ",
-            "fact": null
-        },
-        {
-            "en": " good ",
-            "mt": " do ",
             "fact": null
         },
         {
@@ -886,6 +881,11 @@
         {
             "en": " to ",
             "mt": " liva ",
+            "fact": null
+        },
+      {
+            "en": " good ",
+            "mt": " dova ",
             "fact": null
         }
     ]
