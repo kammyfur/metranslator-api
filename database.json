@@ -13,6 +13,121 @@
             "mt": " jit doc ",
             "fact": "'jit' is a root word for past tense things."
         },
+      {
+            "en": " with ",
+            "mt": " thavo ",
+            "fact": null
+        },
+        {
+            "en": " some ",
+            "mt": " gobiv ",
+            "fact": null
+        },
+        {
+            "en": " something ",
+            "mt": " gobival ",
+            "fact": null
+        },
+         {
+            "en": " others ",
+            "mt": " di togop ",
+            "fact": null
+        },
+        {
+            "en": " other ",
+            "mt": " togop ",
+            "fact": null
+        },
+         {
+            "en": " others ",
+            "mt": " di togop ",
+            "fact": null
+        },
+         {
+            "en": " times ",
+            "mt": " di frip ",
+            "fact": null
+        },
+         {
+            "en": " time ",
+            "mt": " frip ",
+            "fact": null
+        },
+         {
+            "en": " clock ",
+            "mt": " fisu ",
+            "fact": null
+        },
+         {
+            "en": " tell ",
+            "mt": " brihi ",
+            "fact": null
+        },
+         {
+            "en": " will ",
+            "mt": " nahag ",
+            "fact": null
+        },
+         {
+            "en": " won't ",
+            "mt": " gohog ",
+            "fact": null
+        },
+         {
+            "en": " air ",
+            "mt": " oxy ",
+            "fact": null
+        },
+        {
+            "en": " oxygen ",
+            "mt": " oxy ",
+            "fact": null
+        },
+        {
+            "en": " small ",
+            "mt": " solm ",
+            "fact": null
+        },
+         {
+            "en": " tiny ",
+            "mt": " solm ",
+            "fact": null
+        },
+         {
+            "en": " short ",
+            "mt": " solm ",
+            "fact": null
+        },
+         {
+            "en": " big ",
+            "mt": " bogol ",
+            "fact": null
+        },
+         {
+            "en": " large ",
+            "mt": " bogol ",
+            "fact": null
+        },
+         {
+            "en": " tall ",
+            "mt": " bogol ",
+            "fact": null
+        },
+         {
+            "en": " end ",
+            "mt": " nedu ",
+            "fact": null
+        },
+         {
+            "en": " beginning ",
+            "mt": " begij ",
+            "fact": null
+        },
+         {
+            "en": " start ",
+            "mt": " begij ",
+            "fact": null
+        },
         {
             "en": " playing ",
             "mt": " bi ada ",
