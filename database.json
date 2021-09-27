@@ -13,6 +13,146 @@
             "mt": " ac ",
             "fact": "'ac' is a generic greetings word"
         },
+        {
+            "en": " mom ",
+            "mt": " retur ",
+            "fact": null
+        },
+      {
+            "en": " mother ",
+            "mt": " retur ",
+            "fact": null
+        },
+      {
+            "en": " dad ",
+            "mt": " turtu ",
+            "fact": null
+        },
+      {
+            "en": " father ",
+            "mt": " turtu ",
+            "fact": null
+        },
+      {
+            "en": " everything ",
+            "mt": " trurali ",
+            "fact": null
+        },
+      {
+            "en": " every ",
+            "mt": " trura ",
+            "fact": null
+        },
+      {
+            "en": " up ",
+            "mt": " puye ",
+            "fact": null
+        },
+      {
+            "en": " down ",
+            "mt": " odow ",
+            "fact": null
+        },
+      {
+            "en": " right ",
+            "mt": " girit ",
+            "fact": null
+        },
+      {
+            "en": " left ",
+            "mt": " efel ",
+            "fact": null
+        },
+      {
+            "en": " would ",
+            "mt": " gihopo ",
+            "fact": null
+        },
+      {
+            "en": " when ",
+            "mt": " jiqu ",
+            "fact": null
+        },
+      {
+            "en": " lives ",
+            "mt": " di lufuri ",
+            "fact": null
+        },
+      {
+            "en": " life ",
+            "mt": " lufuri ",
+            "fact": null
+        },
+      {
+            "en": " lessons ",
+            "mt": " di sulloth ",
+            "fact": null
+        },
+      {
+            "en": " lesson ",
+            "mt": " sulloth ",
+            "fact": null
+        },
+      {
+            "en": " negative ",
+            "mt": " nuguy ",
+            "fact": null
+        },
+      {
+            "en": " into ",
+            "mt": " copliva ",
+            "fact": null
+        },
+      {
+            "en": " rewards ",
+            "mt": " di jobid ",
+            "fact": null
+        },
+      {
+            "en": " reward ",
+            "mt": " jobid ",
+            "fact": null
+        },
+      {
+            "en": " had ",
+            "mt": " jit goye ",
+            "fact": null
+        },
+      {
+            "en": " have ",
+            "mt": " goye ",
+            "fact": null
+        },
+      {
+            "en": " warn ",
+            "mt": " potse ",
+            "fact": null
+        },
+      {
+            "en": " refuse ",
+            "mt": " rufus ",
+            "fact": null
+        },
+      {
+            "en": " gives ",
+            "mt": " di tiviw ",
+            "fact": null
+        },
+      {
+            "en": " give ",
+            "mt": " tiviw ",
+            "fact": null
+        },
+      {
+            "en": " stings ",
+            "mt": " di ciway ",
+            "fact": null
+        },
+      {
+            "en": " sting ",
+            "mt": " ciway ",
+            "fact": null
+        },
       {
             "en": " wrote ",
             "mt": " jit doc ",
